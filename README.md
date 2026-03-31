@@ -21,7 +21,11 @@ Create a low-cost, IoT-based hardware device for Indian Railways to monitor trac
 - On either side, there are two wheels separated by the the sensors for monitoring the side surfaces
 - In the space between the wheels, an emitter is placed on one side and the sensor is placed on the other side
 
-![Track cross section](image.png)
+<figure>
+  <img src="image.png" alt="Cross section of train track">
+  <figcaption>Fig 1. Cross section of train track</figcaption>
+</figure>
+
 ---
 ## Methodology:
 1. Surface cracks are detected by:
