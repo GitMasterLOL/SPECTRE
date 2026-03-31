@@ -22,7 +22,7 @@ Create a low-cost, IoT-based hardware device for Indian Railways to monitor trac
 - In the space between the wheels, an emitter is placed on one side and the sensor is placed on the other side
 
 <figure>
-  <img src="image.png" alt="Cross section of train track">
+  <img src="track_cross_section.png" alt="Cross section of train track">
   <figcaption>Fig 1. Cross section of train track</figcaption>
 </figure>
 
